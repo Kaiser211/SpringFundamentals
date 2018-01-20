@@ -1,0 +1,47 @@
+*{
+	text-align: center;
+	color: blue;
+}
+img{
+	width: 200px;
+	height: 400px;
+	
+}
+
+body{
+	background-color: green;
+}
+
+.intro{
+	display: inline-block;
+	width: 25%;
+	margin: 32px;
+	background-color: black;
+}
+
+.intro1{
+	display: block;
+	width: 50%;
+	margin: 10px auto;
+	background-color: black;
+}
+
+.kk{
+	display:flex;
+	width: 50%;
+	margin: auto;
+}
+
+.box{
+	width:  256px;
+	height: 256px;
+	margin: 32px;
+	background-color: black;
+}
+
+.boxEnlarge{
+	width:  384px;
+	height: 384px;
+	margin: 32px;
+	background-color: black;
+}
