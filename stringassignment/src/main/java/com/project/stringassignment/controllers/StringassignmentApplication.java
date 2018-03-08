@@ -30,7 +30,7 @@ public class StringassignmentApplication {
 	
 	@RequestMapping("/")
 	public String Index(){
-		return "Hello Kashaer! How are you doing?";
+		return "Hello Kashaer! Never Ever Give Up!";
 	}
 	
 	@RequestMapping("/random")
